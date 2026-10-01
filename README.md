@@ -15,6 +15,6 @@ The following manager versions are available in this repository:
 * `ResukiSU_SUSFS_v35107`
 
 ## 📥 Download
-You can download the APK files directly from the [Releases](https://github.com/ExXyrou/main/releases) page. 
+You can download the APK files directly from the [Releases](https://github.com/ExXyrou/KernelSU_Manager/releases) page. 
 
 *Note: Please ensure you install the manager version that matches the one integrated into your flashed kernel.*
